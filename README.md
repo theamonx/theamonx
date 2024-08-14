@@ -5,7 +5,7 @@
 ## 👀 I’m interested in
 -  Game Developement, Graphics Desgining, Web Dev
 ## 🤵 Experience
-### Freelance Graphics Designer : 2 Year (2022-2023)
+### Freelance Graphics Designer : 2 Year (2022-2024)
   - Made my own designing agency in 2021 in name of **V Design**
   - Contributed in School Event Posters, sold my designes to Local Shops around my area and recently joined College Media Club **(Ambedkar Group of Media and Publications)**.
 ### Web Developer :
