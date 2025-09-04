@@ -1,7 +1,7 @@
 ### Hi 👋
 # I’m @theamonx :  Aman Kumar Singh
 ## 👨‍🎓 I'm a student
--  Diploma in Computer Engineering at DSEU Ambedkar Shakarpur Campus-I in Delhi, India
+- B. Tech in Computer Science and Engineering at Akhilesh Das Gupta Institute of Professional Studies in Delhi, India
 ## 👀 I’m interested in
 -  Game Developement, Graphics Desgining, Web Dev
 ## 🤵 Experience
@@ -11,8 +11,8 @@
 ### Web Developer :
 - I started learning it since young age but not that much to be exceptional
 - Recently I started practising again and made some project using different css and javascript frameworks.
--  Currently working as an Frontend Web Developer intern at [Internpluss](https://www.internpluss.com)
-
+-  Worked 3 months as an Frontend Web Developer intern at [Internpluss](https://www.internpluss.com)
+- Currently Freelancing, It's been a Year. Soon will be making my portfolio public officially.
 ## Feel free to contact
-- 🌱 I’m currently learning FullStack Web Dev
+- 🌱 I’m Experienced FullStack Web Dev with Modern Frontend and Classic Backend Technologies.
 - 📫 Contact: theamonx@gmail.com
